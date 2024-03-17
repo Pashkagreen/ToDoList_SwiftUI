@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "list.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
